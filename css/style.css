@@ -1124,22 +1124,3 @@ h1, h2, h3, h4, h5,
         .comment-list li .comment-body .reply:hover {
           color: #000;
           background: #e3e3e3; }
-
-.neobtn{
-  position: relative;
-  display: inline-block;
-  padding: 10px 20px;
-  color: #00C5C5;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  text-decoration: none;
-  font-size: 15px;
-  overflow: hidden;
-  transition: 0.2s;
-}
-.neobtn:hover{
-  color: #212529;
-  background: #00C5C5;
-  box-shadow: 0 0 10px #00C5C5, 0 0 40px #00C5C5, 0 0 80px #00C5C5;
-  transition-delay: 0s;
-}
